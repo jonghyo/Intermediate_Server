@@ -1,5 +1,3 @@
-/*Redisからのsubscribeを受け取り各クライアントに送信するサーバ*/
-
 require 'rubygems'
 require 'socket'
 require 'eventmachine'

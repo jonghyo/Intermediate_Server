@@ -1,5 +1,3 @@
-/*クライアントからのメッセージをRedisサーバにpublishするサーバ*/
-
 require 'rubygems'
 require 'socket'
 require 'eventmachine'
